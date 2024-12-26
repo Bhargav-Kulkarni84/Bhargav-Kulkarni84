@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a second-year Electronics and Communication 
 ### Connect with Me
 - 📫 How to reach me: [Email](bhargav.vitc@gmail.com) | [LinkedIn](https://in.linkedin.com/in/bhargav-kulkarni1)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess, reading books, and exploring theoretical physics in my free time!
+- ⚡ About me: I love playing chess and cricket, reading books, and learning physics and math in my free time!
 
 ---
 
@@ -52,20 +52,20 @@ Welcome to my GitHub profile! I’m a second-year Electronics and Communication 
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/><br>Heroku
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br>Postman
     </td>
   </tr>
   <tr>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/><br>Arduino
-    </td>
-    <td align="center">
+    </td> -->
+<!--     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/><br>C
-    </td>
-    <td colspan="2"></td> <!-- Empty cells to keep alignment -->
+    </td> -->
+<!--     <td colspan="2"></td> <!-- Empty cells to keep alignment -->
   </tr>
 </table>
